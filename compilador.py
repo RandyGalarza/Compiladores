@@ -206,7 +206,7 @@ def crear_interfaz():
     texto_input.pack(padx=10, pady=10)
 
     # Etiqueta para mostrar los resultados de la compilación
-    label_resultado = tk.Label(ventana, text="Resultado de la compilación aquí...", justify="left")
+    label_resultado = tk.Label(ventana, text="Uniguajira", justify="left")
     label_resultado.pack(padx=10, pady=10)
 
     # Función para manejar el botón de compilación
