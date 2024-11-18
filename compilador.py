@@ -133,7 +133,7 @@ def generar_codigo(nodo, temp_count):
     elif isinstance(nodo, str):  # Si es un número o un identificador
         return nodo
 
-# Función para simular la ejecución (sólo ejemplo de compilación exitosa)
+# Función para simular
 def simular_ejecucion(codigo):
     try:
         # Ejecutar el código como un script de Python básico en una variable aislada
